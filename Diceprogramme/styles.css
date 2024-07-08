@@ -1,0 +1,27 @@
+body {
+    margin:0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+input{
+    font-size: 22px;
+    font-weight:900;
+    text-align: center;
+    color: crimson;
+}
+button{
+ font-weight:900 ;
+ font-size: 18px;
+ background-color: crimson;
+ border: none;
+ padding: 10px;
+ border-radius:10px ;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
