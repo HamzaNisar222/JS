@@ -1,7 +1,6 @@
 
 function roll(){
 const input = Number(document.getElementById("input").value);
-const button = document.getElementById("myBtn");
 const result = document.getElementById("result");
 const images = document.getElementById("images");
 let values=[];
