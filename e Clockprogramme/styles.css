@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container
+{
+    background-image: url(./pngtree-rainbow-curves-abstract-colorful-background-image_2164067.jpg);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    
+
+}
+.clock-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+    font-size: 5rem;
+    font-weight: 900;
+      
+}
+.clock{
+    background-color: rgba(365, 365, 365, 0.3); 
+    width: 100%;
+}
+
